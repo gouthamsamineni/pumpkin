@@ -81,6 +81,12 @@ body{
 .card{
   margin-left: 30%;
 }
+.card-text{
+    text-align: center;
+ }
+ .card-title{
+   text-align: center;
+ }
 #seemore{
   height: 6rem;
   width: 10rem;
