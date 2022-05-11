@@ -3,9 +3,11 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
   font-weight: bold;
+
 }
 .navbar{
   padding: 0 0 0.5rem;
+
 }
 .nav-item{
   padding: 0px 18px;
@@ -77,7 +79,7 @@ body{
   text-align: center;
 }
 .card{
-  margin-left: 18%;
+  margin-left: 30%;
 }
 #seemore{
   height: 6rem;
@@ -150,6 +152,9 @@ body{
   }
   .fmed{
   margin-left: 30%;
+  }
+  .card{
+    margin-left: 35%;
   }
   .card-text{
     text-align: center;
